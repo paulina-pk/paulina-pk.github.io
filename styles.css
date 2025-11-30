@@ -492,6 +492,16 @@ header {
     font-weight: 600;
     color: var(--clr-light);
 }
+
+.skills-names span {
+    display: block;
+    margin: 0 auto;
+    max-height: 67px;
+    max-width: 67px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+
 .skills-icons {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
