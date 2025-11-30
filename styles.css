@@ -273,8 +273,8 @@ header {
     .section-title-intro {
         text-align: left;
         position: relative;
-        padding-top: 1.5em;
-        right: -1.25em;
+        padding-top: 1.9em;
+        right: -0.75em;
     }
     .project-title-intro {
         right: 0;
@@ -293,7 +293,7 @@ header {
 
 @media (min-width: 800px) {
     .section-subtitle-intro {
-        width: 72%;
+        width: 82%;
         margin-right: 0;
     }
     .web-dev {
