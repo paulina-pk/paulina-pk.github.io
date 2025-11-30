@@ -500,6 +500,7 @@ header {
     max-width: 67px;
     border-radius: 50%;
     border: 1px solid #fff;
+    background-color: #fff;
 }
 
 .skills-icons {
