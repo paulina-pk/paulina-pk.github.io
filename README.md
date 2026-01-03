@@ -2,7 +2,7 @@
 
 This is the repository for my personal portfolio.
 
-:sparkles: [Visit the live website!](https://paulina-kottlewska.github.io/) :sparkles:
+:sparkles: [Visit the live website!](https://paulina-pk.github.io/) :sparkles:
 
 ### Features
 
@@ -10,12 +10,3 @@ This is the repository for my personal portfolio.
 - Projects
 - Skills
 - Contact
-
-### Built with
-
-- HTML5
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- JavaScript 
