@@ -278,6 +278,8 @@ header {
         text-align: left;
         position: relative;
         padding-top: 1.9em;
+    }
+    .intro .section-title {
         right: -0.75em;
     }
     .project-title-intro {
