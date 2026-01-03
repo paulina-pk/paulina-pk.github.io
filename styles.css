@@ -92,9 +92,11 @@ h3 { font-size: var(--fs-h3) }
 .section-title {    
     margin-bottom: .25em;
     text-align: center;
+    font-weight: var(--fw-reg);
 }
 .section-title-intro {
-    font-weight: var(--fw-reg);
+    display: flex;
+    flex-direction: column;
 }
 
 .section-subtitle {    
@@ -268,7 +270,7 @@ header {
     .project-intro-img {
         left: .5em;
     }
-    .section-title-intro {
+    .section-title {
         text-align: left;
         position: relative;
         padding-top: 1.9em;
