@@ -282,7 +282,7 @@ header {
         position: relative;
         padding-top: 1.9em;
     }
-    .section-title-intro,
+    .intro .section-title-intro,
     .project-title-intro {
         right: 0;
     }
