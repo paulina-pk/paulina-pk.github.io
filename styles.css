@@ -273,15 +273,16 @@ header {
     .project-intro-img {
         left: .5em;
     }
+    .intro .section-title {
+        right: -0.75em;
+    }
     .intro .section-title,
     .section-title-intro {
         text-align: left;
         position: relative;
         padding-top: 1.9em;
     }
-    .intro .section-title {
-        right: -0.75em;
-    }
+    .section-title-intro,
     .project-title-intro {
         right: 0;
     }
