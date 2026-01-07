@@ -277,7 +277,7 @@ header {
         left: .5em;
     }
     .intro .section-title {
-        right: -0.75em;
+        left: 20px;
     }
     .intro .section-title,
     .section-title-intro {
@@ -413,10 +413,9 @@ header {
     aspect-ratio: 16/9;
     object-fit: cover;
     object-position: center;
-    transition: transform 200ms ease-in-out;
 }
-.card-header:hover {
-    transform: scale(1.1);
+.card-header {
+    transition: transform 200ms ease-in-out;
 }
 .project-title {
     color: var(--clr-dark-midnight);
@@ -688,6 +687,7 @@ footer a {
     font-size: var(--fs-body);
     font-weight: 300;
     margin-left: 0.3em;
+    transition: transform 200ms ease-in-out;
 }
 
 @media (min-width: 700px) {
@@ -745,6 +745,9 @@ footer a {
     .footer-link:hover, .social-list-link:hover {
         transform: scale(1.1);
         color: var(--clr-accent);
+    }
+    .card-header:hover {
+        transform: scale(1.1);
     }
 }
 
